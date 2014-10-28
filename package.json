@@ -1,0 +1,17 @@
+{
+    "name": "dbmzp",
+    "version": "0.1.0",
+    "repository": "git://github.com/judasnow/dbmzp",
+
+    "dependencies": {
+        "typescript": "*",
+        "qn": "*"
+    },
+
+    "devDependencies": {
+        "typescript": "1.0.0",
+        "grunt": "~0.4.5"
+    }
+}
+
+
